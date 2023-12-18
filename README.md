@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdul-musabbir/cloud/master/Artboard%201%404x.png" width="50" height="50" alt="Framer Motion Icon" />
 </p>
-<h1 align="center">Framer Motion</h1>
+<h1 align="center">Pinfy</h1>
 <h3 align="center">
   An open source motion library for React, made by Framer.
 </h3>
